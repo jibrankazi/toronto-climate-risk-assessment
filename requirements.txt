@@ -1,0 +1,8 @@
+# Python dependencies for climate risk assessment project
+pandas
+numpy
+geopandas
+rasterio
+shapely
+matplotlib
+seaborn
